@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlowerRec", "FlowerRec.pyproj", "{AE347035-9C56-427C-BD4E-DDFB27A7F6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE347035-9C56-427C-BD4E-DDFB27A7F6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE347035-9C56-427C-BD4E-DDFB27A7F6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D57B5D32-55F8-4D06-9923-ADBE791F5E1C}
+	EndGlobalSection
+EndGlobal
