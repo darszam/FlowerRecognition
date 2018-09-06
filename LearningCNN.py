@@ -1,6 +1,5 @@
 from CreatingCNN import *
-from keras.preprocessing.image import ImageDataGenerator
-import os 
+
 print(os.listdir("flowers_to_rec/"))
 print(os.listdir("flowers/"))
 

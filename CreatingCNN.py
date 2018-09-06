@@ -3,7 +3,9 @@ import pandas as pd
 from tensorflow.python import keras
 from tensorflow.python.keras.models import Sequential
 from tensorflow.python.keras.layers import Dense, Flatten, Conv2D, Dropout
-
+from keras.preprocessing.image import ImageDataGenerator
+from keras.preprocessing import image
+import os 
 flower_classes = 5
 # CNN structure
 flower_recognizer_model = Sequential()
