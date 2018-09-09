@@ -10,7 +10,7 @@ Creating and using Convolutional Neural Network to recognize flower by its pictu
   * [Project scripts](#project-scripts)
     + [Creating CNN](#creating-cnn)
     + [Learning CNN](#learning-cnn)
-    + [Predicting] (#predicting)
+    + [Predicting](#predicting)
 
 ## Project Scripts
 I divided project into 3 parts: First creating cnn, defining its layers, importing packages etc. Second in which cnn is being taught to flower dataset. And third part predicting where I use picture from the internet and asking cnn to classify it to the right class.
@@ -25,6 +25,7 @@ In this script I'm managing whereabouts of the flower images dataset and using i
 Last script contains loading weights of the saved model in case we don't want to wait and teaching&using new model. Next step is getting picture of flower we want to classify. After scaling operations we can run predict function of our model. Prediction result is array in order - daisy, dandelion, rose, sunflower, tulip. 
 
 This is the result of predicting purple rose image.
+
 <img src="result.png" alt="Classifying flower"/>
 
 
